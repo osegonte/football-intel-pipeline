@@ -1,0 +1,4 @@
+SQLAlchemy>=1.4
+alembic>=1.10
+psycopg2-binary>=2.9
+pydantic-settings   # or your chosen config library
