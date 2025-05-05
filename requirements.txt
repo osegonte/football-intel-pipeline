@@ -1,4 +1,9 @@
-SQLAlchemy>=1.4
-alembic>=1.10
-psycopg2-binary>=2.9
-pydantic-settings   # or your chosen config library
+# Core requirements
+requests==2.31.0
+beautifulsoup4==4.12.2
+psycopg2-binary==2.9.9
+python-dotenv==1.0.0
+
+# For future extensions
+SQLAlchemy==1.4.51
+alembic==1.11.3
